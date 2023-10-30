@@ -4,17 +4,10 @@ This repository is dedicated to predicting the zodiac signs of OKCUPID users usi
 
 ## Key Feature
 
-In the date_a_scientist.ipynb notebook, you will find PyCaret code for:
-
-* Building and defining the zodiac sign prediction model, which is a classification task.
-* Compiling and training the model on the preprocessed dataset.
+* Building and defining the zodiac sign prediction model.
+* Compiling and training the model on the preprocessed dataset using PyCaret's.
 
 ## File Description
   
-### date_a_scientist.ipynb:
-
-This notebook contains code to build the machine learning.
-
-### OKCupid SLIDE DECK.pptx:
-
-This pptx file contains the results of OKCUPID Analysis.
+* **date_a_scientist.ipynb:** This notebook contains code to build the machine learning.
+* **OKCupid SLIDE DECK.pptx:** This pptx file contains the analysis result.
